@@ -18,35 +18,11 @@ An intelligent educational assistant powered by Cohere AI that helps students wi
 - Vite
 - Lucide React Icons
 
-## Getting Started
+##  Live Demo:
+🔗 [eduAI Chatbot](https://eduai-chatbot.vercel.app)
 
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/ai-educational-chatbot.git
-cd ai-educational-chatbot
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Create a `.env` file in the root directory and add your Cohere API key:
-```
-VITE_COHERE_API_KEY=your_api_key_here
-```
-
-4. Start the development server
-```bash
-npm run dev
-```
-
-## Environment Variables
-
-The following environment variables are required:
-
-- `VITE_COHERE_API_KEY`: Your Cohere AI API key
-
+##  GitHub Repository:
+🔗 [GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/eduAI-chatbot)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
